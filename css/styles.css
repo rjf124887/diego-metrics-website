@@ -211,7 +211,10 @@
             color: #1e3a8a;
             margin-bottom: 1rem;
         }
-
+	.research {
+	    padding: 80px 0;  /* This gives proper bottom padding */
+	    background: white;
+	}
         /* Stats Section */
         .stats {
             padding: 80px 0;
